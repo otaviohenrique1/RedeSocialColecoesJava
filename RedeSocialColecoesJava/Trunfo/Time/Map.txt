@@ -1,0 +1,33 @@
+Real Madrid FC. - 1 - Espanha - 606.140.000£ - 12 - 32 - 70 - 27,7
+Bayern de Munique - 2 - Alemanha - 499.880.000£ - 6 - 24 - 75 - 28,3
+Chelsea FC. - 3 - Reino Unido - 391.380.00£ - 2 - 4 - 85 - 25,2
+Borusia Dortmund - 4 - Alemanha - 301.620.000£ - 1 - 8 - 95 - 24,2
+Barcelona FC. - 5 - Espanha - 545.600.000£ - 4 - 22 - 60 - 26,2
+Liverpool FC. - 6 - Reino Unido - 291.720.000£ - 8 - 18 - 65 - 22,9
+Arsenal - 7 - Reino Unido - 359.300.000£ - 0 - 13 - 65 - 26,4
+Manchester United - 8 - Reino Unido - 405.680.000£ - 3 - 20 - 70 - 27,7
+Paris Saint Germain - 9 - Franca - 345.310.000£ - 0 - 8 - 80 - 28,3
+Atletico de Madrid - 10 - Espanha - 267.960.000£ - 2 - 10 - 90 - 25,1
+Juventus FC. - 11 - Italia - 289.520.000£ - 5 - 30 - 80 - 28,1
+Marchester City - 12 - Reino Unido - 388.300.000£ - 0 - 4 - 85 - 24,9
+Porto FC. - 13 - Portugal - 173.800.000£ - 4 - 17 - 60 - 23,6
+Shakhtar Donetsk - 14 - Ucrania - 151.450.000£ - 1 - 19 - 70 - 24,5
+Zenit St. Petersburg - 15 - Russia - 180.090.000£ - 1 - 11 - 55 - 26,3
+AS Monaco - 16 - Franca - 117.700.000£ - 0 - 4 - 55 - 28,1
+Dynamo Kiev - 17 - Ucrania - 100.410.000£ - 0 - 14 - 65 - 24,9
+AC Milan - 18 - Italia - 164.120.000£ - 7 - 18 - 50 - 29,1
+Bayern Leverkusen - 19 - Alemanha - 159.240.000£ - 1 - 0 - 85 - 25,2
+AS Roma - 20 - Italia - 219.470.000£ - 0 - 6 - 75 - 24,8
+Schalke 04 FC. - 21 - Alemanha - 185.060.000£ - 1 - 7 - 65 - 25,2
+Inter Milan FC. - 22 - Italia - 203.100.000£ - 6 - 18 - 60 - 26,4
+Anderlecht FC. - 23 - Belgica - 67.850.000£ - 1 - 19 - 50 - 27,1
+Standard Liege - 24 - Belgica - 45.890.000£ - 0 - 4 - 45 - 28,3
+Olympiacos FC.  - 25 - Grecia - 60.850.000£ - 0 - 22 - 55 - 29,6
+Galatasaray - 26 - Turquia - 143.180.000£ - 1 - 7 - 40 - 29,1
+Celtic FC. - 27 - Escocia - 51.990.000£ - 1 - 26 - 60 - 30,2
+Fenerbahce - 28 - Turquia - 116.420.000£ - 0 - 21 - 45 - 29,7
+São Paulo FC. - 29 - Brasil - 57.820.000£ - 7 - 6 - 50 - 28,3
+Cruzeiro FC. - 30 - Brasil - 43.780.000£ - 4 - 3 - 65 - 27,9
+Palmeiras FC. - 31 - Brasil - 28.470.000£ - 1 - 8 - 55 - 27,2
+Ajax Amsterdam - 32 - Holanda - 68.970.000£ - 5 - 42 - 70 - 26,9 
+
