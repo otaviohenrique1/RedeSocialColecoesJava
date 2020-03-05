@@ -1,0 +1,32 @@
+Lamborghini Huracan - 1 - Italia - 9,4 cc - 715 cv - R$ 1.850.000 - 325 km/h - 14,4 m/s
+Porshe 918 Spyder - 2 - Alemanha - 8,8 cc - 887 cv - R$ R$ 2.500.000 - 315 km/h - 12,5 m/s
+Ferrari Enzo - 3 - Italia - 9,2 cc - 920 cv - R$ 2.100.000 - 320 km/h - 13,2 m/s
+Audi R8 - 4 - Alemanha - 4,2 cc - 843 cv - R$ 340.000 - 301 km/h - 11,9 m/s
+Dodge Charger 2014 - 5 - USA - 5,4 cc - 617 cv - R$ 250.000 - 312 km/h - 12,9 m/s
+Nissan GT-R - 6 - Japao - 4,0 cc - 880 cv - R$ 410.000 - 315 km/h - 10,7 m/s
+Jaguar F-Type Coupe - 7 - Reino Unido - 4,0 cc - 495 cv - R$ 560.000 - 253 km/h - 11,8 m/s
+Honda Civic Si - 8 - Japao - 4,2 cc - 560 cv - R$ 270.000 - 235 km/h - 9,3 m/s
+Audi A3 Cabriolet - 9 - Alemanha - 3,6 cc - 420 cv - R$ 230.000 - 215 km/h - 10,6 m/s
+BMW Serie 2 Coupe - 10 - Alemanha - 3,4 cc - 630 cv  - R$ 190.000 - 210 km/h - 12,1 m/s
+Renault Captur - 11 - Franca - 3,8 cc - 380 cv - R$ 120.000 - 180 km/h - 9,4 m/s
+Toyota Corolla - 12 - Japao - 4,0 cc - 410 cv - R$ 180.000 - 190 km/h - 10,7 m/s
+Tauro V8 Spider - 13 - Espanha - 3,6 cc - 400 cv - R$ 160.000 - 185 km/h - 8,3 m/s
+Jac S11 - 14 - China - 3,6 - 360 cv - R$ 130.000 - 190 km/h - 7,7 m/s
+Hyundai Tiburon - 15 - Corea do Sul - 4,2 cc - 350 cv - R$ 150.000 - 194 km/h - 9 m/s
+Chevrolet Malibu - 16 - USA - 3,6 cc - 320 cv - R$ 110.000 - 180 km/h - 7,2 m/s
+Lotus Elise - 17 - Reino Unido - 4,0 cc - 320 cv - R$ 200.000 - 197 km/h - 8,5 m/s
+Mercedes-SL63 - 18 - Alemanha - 3,6 cc - 330 cv - R$ 180.000 - 184 km/h - 7,6 m/s
+Ford Fiesta - 19 - USA - 3,2 cc - 280 cv - R$ 55.000 - 170 km/h - 6,6 m/s
+Ford Fusion - 20 - UsA - 3,3 cc - 300 cv - R$ 90.000 - 174 km/h - 9,8 m/s
+Volkswagen Scirocco R - 21 - Alemanha - 3,0 cc - 270 cv - R$ 38.000 - 178 km/h - 8,2 m/s
+Land Rover Evoque - 22 - Reino Unido - 3,2 cc - 380 cv - R$ 68.000 - 162 km/h - 6,7 m/s
+Ford Mustang - 23 - USA - 3,4 cc - 350 cv - R$ 140.000 - 182 km/h - 9,1 m/s
+Camaro - 24 - USA - 3,2 cc - 300 cv - R$ 130.000 - 186 km/h - 8,8 m/s
+Volkswagen Jetta - 25 - Alemanha - 2,6 cc - 260 cv - R$ 44.000 - 163 km/h - 7,3 m/s
+Citroen C4 Cactus - 26 - Franca - 3,2 cc - 320 cv - R$ 83.000 - 160km/h - 5,8 m/s
+Alfa Romeo Giulia Sprint - 27 - Italia - 3,4 cc - 280 cv - R$ 92.000 - 182 km/h - 7,9 m/s
+Chery Qoros CQ3 SW - 28 - China - 2,8 cc - 280 cv - R$ 42.000 - 164 km/h - 6,8 m/s
+Dacia Logan - 29 - Romenia - 2,6 cc - 260 cv - R$ 43.000 - 166 km/h - 8,1 m/s
+Elfin MS8 - 30 - Australia - 2,4 cc - 264 cv - R$ 35.000 - 160 km/h - 6,9 m/s
+Ford Maverick - 31 - USA - 2,8 cc - 258 cv - R$ 64.000 - 171 km/h - 7,2 m/s
+Renault Fluence - 32 - Franca - 2,6 cc - 262 cv - R$ 56.000 - 164 km/h - 6,7 m/s
