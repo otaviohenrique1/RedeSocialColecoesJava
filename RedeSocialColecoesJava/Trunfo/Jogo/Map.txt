@@ -1,0 +1,32 @@
+Mario - 1 - NES - 4 - 10 - 4 - 4 - 10
+Sonic - 2 - Mega Drive - 5 - 10 - 5 - 10 - 10
+Mega Man - 3 - NES - 5 - 9 - 6 - 6 - 9
+Pac Man - 4 - Atari - 3 - 7 - 3 - 2 - 7
+Bomberman - 5 - NES - 3 - 5 - 3 - 3 - 5
+Alex Kidd - 6 - Master System - 3 - 4 - 2 - 3 - 2
+Link - 7 - NES - 6 - 9 - 6 - 7 - 10
+Cloud Strife - 8 - Ps1 - 7 - 9 - 6 - 6 - 9
+Donkey Kong - 9 - SNES - 4 - 7 - 3 - 7 - 7
+Crono - 10 - SNES - 6 - 9 - 7 - 5 - 9
+Gordon Freeman - 11 - PC - 8 - 10 - 8 - 8 - 10
+Master Chief - 12 - XBOX - 6 - 10 - 5 - 6 - 10
+Scorpion - 13 - Arcade - 6 - 10 - 6 - 7 - 10
+Lara Croft - 14 - Ps1 - 4 - 9 - 4 - 7 - 10
+Cartman - 15 - PC - 3 - 9 - 3 - 2 - 9
+Ryu - 16 - Arcade - 5 - 9 - 5 - 6 - 9
+Sora - 17 - Ps2 - 4 - 8 - 6 - 4 - 8
+Marcus Fenix - 18 - XBOX360 - 5 - 7 - 5 - 4 - 8
+The Prince - 19 - Ps2 - 5 - 8 - 5 - 7 - 8
+Alucard - 20 - Ps1 - 5 - 4 - 4 - 5 - 3
+Pit - 21 - NES - 7 - 4 - 6 - 4 - 8
+Ezio Auditore - 22 - XBOX360 - 4 - 7 - 4 - 6 - 7
+Fox - 23 - NGC - 3 - 6 - 3 - 3 - 6
+Fulgore - 24 - Arcade - 8 - 6 - 3 - 8 - 5
+Solid Snake - 25 - Ps1 - 2 - 6 - 4 - 5 - 7
+Marco - 26 - Neo Geo - 3 - 6 - 3 - 3 - 5
+Ness - 27 - SNES - 1 - 7 - 1 - 2 - 7
+Ryo Hazuki - 28 - Dreamcast - 2 - 6 - 3 - 2 - 6
+Samus - 29 - SNES - 4 - 8 - 4 - 5 - 9
+Kyo - 30 - Arcade - 8 - 4 - 6 - 4 - 4
+Ethan - 31 - GBC - 1 - 3 - 1 - 1 - 3
+Shulk - 32 - WII - 3 - 6 - 4 - 4 - 5
